@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ApooPHP
+  name: ApooPHP
 
 variables:
   phpVersion: 8.3
